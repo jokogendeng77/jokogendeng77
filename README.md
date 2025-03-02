@@ -1,41 +1,25 @@
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Hello+There+%F0%9F%91%8B!;%F0%9F%A4%96I+am+Paijo+a.k.a+Oyi77%F0%9F%A4%96" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Hello+There+%F0%9F%91%8B!;%F0%9F%A4%96I+am+JokoGendeng%F0%9F%A4%96" alt="Typing SVG" /></a>
 </h1>
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer%20and%20app%20developer;Experienced%20IT%2FConsultant%20;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3EDF00&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Blockchain+Developer;Solidity+Programmer;Crazy+Blatant+Programmer" alt="Typing SVG" /></a>
 </p>
 
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=oyi77.oyi77) [![Github](https://img.shields.io/github/followers/oyi77?label=Followers&logo=Github)](https://github.com/oyi77)
+![](https://visitor-badge.laobi.icu/badge?page_id=jokogendeng77.jokogendeng77) [![Github](https://img.shields.io/github/followers/jokogendeng77?label=Followers&logo=Github)](https://github.com/jokogendeng77)
 
-## 🎓 I'm a IT Professional & Software Engineer
+## 🎓 I'm a IT Professional & Blockchain Developer
 
-- 🔭 I’m currently works as TechLead.
+- 🔭 I’m currently experimenting on Blockchain
 - 🌱 I’m currently learning Agile & Python. 
 - 👯 I’m looking to collaborate with anyone on any project.
-- 💬 Ask me anything about from <a href="https://github.com/oyi77/oyi77/issues" title="Issues">Here</a>
-- 🤖 I am a [Python](https://www.python.org/) Bot & ML Specialist. How may AI help you?
-- 🌐 Website : [Tutorial Work](https://tutorialwork.my.id)
+- 💬 Ask me anything about from <a href="https://github.com/jokogendeng77/jokogendeng77/issues" title="Issues">Here</a>
+- 🤖 I am a [Python](https://www.python.org/) Bot & Blockchain Specialist. How may AI help you?
+- ➤ Telegram : [Telegram](https://t.me/codergaboets)
 - 📷 Instagram : [@jasatugasyuk](https://instagram.com/jasatugasyuk)
 
-## :email: Find me on:
-
-<!--
-[<img align="left" alt="oyi77" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="oyi77 | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="oyi77 | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
--->
-
-<p align="center">
-<!--  <a href="https://www.charalambosioannou.tech" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a> -->
- <a href="https://www.linkedin.com/in/fikriizzuddin/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:mbahkoe.pendekar@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
-<!--   <a href="https://dev.to/CharalambosIoannou" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a> -->
-</p>
 
 <br />
 
@@ -81,15 +65,15 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="oyi77's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=oyi77&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=oyi77&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="jokogendeng77's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jokogendeng77&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="jokogendeng77's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=jokogendeng77&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 </div>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=oyi77&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="jokogendeng77's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=jokogendeng77&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <h2>⚡ Recent GitHub Activity</h2>
 
