@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=1000&center=true&vCenter=true&repeat=false&width=435&lines=Hello+There+%F0%9F%91%8B!;%F0%9F%A4%96I+am+JokoGendeng%F0%9F%A4%96" alt="Typing SVG" /></a>
 </h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3EDF00&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Blockchain+Developer;Solidity+Programmer;Crazy+Blatant+Programmer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3EDF00&center=true&vCenter=true&repeat=false&multiline=true&width=435&height=150&lines=Blockchain+Developer;Solidity+Programmer;Crazy+Blatant+Programmer" alt="Typing SVG" /></a>
 </p>
 
 
@@ -57,10 +57,6 @@
   </p>
   </div>
   
-  <h3 align="center">🏆 Oyi77 lab's Github Tier</h3>
-<div align="center">
-<a href="https://app.dooboo.io/oyi77"><img src="https://server.dooboo.io/github-stats/oyi77" width="400" /></a>
-</div>
   <h3 align="center">💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
